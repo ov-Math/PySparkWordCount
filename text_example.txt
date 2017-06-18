@@ -1,0 +1,15 @@
+this is an example of a text file
+so spark can count its lines
+it contains a lot of lines
+or at least it should
+but it is kinda small tho
+my bad
+it is because I am really lazy right now
+just like spark is
+don't want to type anymore
+neither go search any doc online on the internet
+I really don't know what to type here anymore
+hope you are not reading this
+shame on me
+I think it iss enough now
+this is the end of the example text file
